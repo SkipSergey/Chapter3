@@ -2,6 +2,7 @@
 {
     public class Car: Transport
     {
+        //Класс для зодания объекта машина
         public Car(object engine, object transmission, double maxWeight) : base(engine, transmission, maxWeight)
         {
         }
